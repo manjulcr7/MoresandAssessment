@@ -1,0 +1,14 @@
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\PluginFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\PluginFramework.AssemblyInfoInputs.cache
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\PluginFramework.AssemblyInfo.cs
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\PluginFramework.csproj.CoreCompileInputs.cache
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\bin\Debug\net6.0\PluginFramework.exe
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\bin\Debug\net6.0\PluginFramework.deps.json
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\bin\Debug\net6.0\PluginFramework.runtimeconfig.json
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\bin\Debug\net6.0\PluginFramework.dll
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\bin\Debug\net6.0\PluginFramework.pdb
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\PluginFramework.dll
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\refint\PluginFramework.dll
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\PluginFramework.pdb
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\PluginFramework.genruntimeconfig.cache
+C:\Users\manjul.c\Desktop\MoresandAssessment\PluginFramework\obj\Debug\net6.0\ref\PluginFramework.dll
